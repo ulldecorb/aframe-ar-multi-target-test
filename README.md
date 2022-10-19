@@ -21,9 +21,9 @@ Project is created with:
 
 ## Targets
 
-![](https://hiukim.github.io/mind-ar-js-doc/assets/images/raccoon-2ef571baece2ee4724d0d19edf3de791.png)
+<!-- ![](https://hiukim.github.io/mind-ar-js-doc/assets/images/raccoon-2ef571baece2ee4724d0d19edf3de791.png)
 
-![](https://hiukim.github.io/mind-ar-js-doc/assets/images/bear-3c737546fb0bde7a9c45b45ee999d132.png)
+![](https://hiukim.github.io/mind-ar-js-doc/assets/images/bear-3c737546fb0bde7a9c45b45ee999d132.png) -->
 
 ![](https://i.ibb.co/CM8Nc7c/pastoretes-timbaler.png)
 ![Columna Biblio](https://i.ibb.co/dkGfmhy/columna-Biblio.jpg)
@@ -33,3 +33,4 @@ Project is created with:
 ![Riera Gabarra](https://i.ibb.co/0jYDtms/riera-Gabarra.jpg)
 ![Ombres Balco Museu](https://i.ibb.co/jV2Y034/hombres-Balco-Museu.jpg)
 ![Espiral Museu](https://i.ibb.co/3sbGvjS/espiral-Museu.jpg)
+![Façana Museu](https://i.ibb.co/L9PMj36/facana-Biblio01seccio-sup-esq.jpg)
