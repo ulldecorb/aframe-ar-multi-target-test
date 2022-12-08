@@ -14,9 +14,9 @@ Project is created with:
 ## Project status
 * [x] Build basic architecture.   
 * [x] Add target templates and gltf model templates.
+* [x] Add own targets   
 
 ---
-* [ ] Add own targets   
 * [ ] Add own gltf models by URL
 
 ## Targets
