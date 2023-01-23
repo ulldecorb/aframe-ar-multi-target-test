@@ -1,0 +1,11 @@
+.counter {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+
+    &_number {
+        font-size: 3rem;
+        color: #ff0000;
+    }
+}
